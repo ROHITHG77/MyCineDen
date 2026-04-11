@@ -4,6 +4,7 @@
 
 ![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-5.x-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8.x-646CFF?style=flat&logo=vite&logoColor=white)
 ![TMDB](https://img.shields.io/badge/TMDB-API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
 
@@ -49,7 +50,7 @@ Just **your movies, your ratings, your den.**
 | Layer | Technology |
 |-------|-----------|
 | **Backend** | Go (Golang) |
-| **Frontend** | Svelte + SvelteKit |
+| **Frontend** | Vite + Svelte |
 | **Database** | SQLite |
 | **Movie Data** | TMDB API |
 | **API** | REST / JSON |
